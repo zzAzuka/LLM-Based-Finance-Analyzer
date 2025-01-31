@@ -22,5 +22,7 @@ An AI-powered financial analysis tool leveraging **Llama 3.1 (via Ollama)** for 
 │── transaction-data.csv  # transactions data
 │── README.md  # Project documentation
 ```
+## DESIRED OUTPUT
+![image](https://github.com/user-attachments/assets/beec9b69-fbf2-44eb-931b-da09fba31409)
 
 
